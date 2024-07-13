@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ff7166f8-f0b5-4239-9afd-c601cfad6eb1)
+
 # Understanding Scope and Hoisting in JavaScript
 
 ## Introduction
@@ -74,8 +76,12 @@ function outerFunction() {
 
 outerFunction();
 ```
+![image](https://github.com/user-attachments/assets/d6881708-f809-433b-91bb-dd868c8dc404)
+![image](https://github.com/user-attachments/assets/488c6aaf-8cb6-42f9-bba7-c2b0e38647e9)
+
 
 ## Hoisting
+![image](https://github.com/user-attachments/assets/7c9330b0-f5f7-4cf3-bf65-98411189b7bb)
 
 **Hoisting** is JavaScript's default behavior of moving declarations to the top of the current scope (script, function, or block). This behavior allows variables and function declarations to be used before they are declared.
 
@@ -125,3 +131,5 @@ Understanding scope and hoisting is crucial for writing efficient and bug-free J
 - Hoisting moves declarations to the top of their scope, but `let` and `const` variables are not initialized until their declaration is evaluated.
 
 By mastering these concepts, you can avoid common pitfalls and write more predictable JavaScript code. Happy coding!
+![image](https://github.com/user-attachments/assets/1cf27c21-f845-421b-ae92-e15662b80e53)
+
